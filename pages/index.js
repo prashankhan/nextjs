@@ -7,7 +7,7 @@ const Home = () => {
         <Head>
             <title>Job Board</title>
         </Head>
-        <h1>Home page</h1>
+        <h1 className="CM__Test_Home">Home page</h1>
     </div>
   )
 }
